@@ -299,7 +299,6 @@ h1 {
     display: flex;
     justify-content: center;
     gap: 24px;
-    padding: 0 0 32px;
 }
 
 .social-item {
